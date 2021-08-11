@@ -1,0 +1,21 @@
+{
+  "name": "2e-ga-pam1-2021",
+  "version": "1.0.0",
+  "description": "pacote",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm i -g @ionic/cli && ionic info",
+    "test": "echo \"Error: no test specified\" && exit 1" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgenteDoCaos/2e-ga-pam1-2021.git"
+  },
+  "author": "ore-sama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgenteDoCaos/2e-ga-pam1-2021/issues"
+  },
+  "homepage": "https://github.com/AgenteDoCaos/2e-ga-pam1-2021#readme"
+  
+}
